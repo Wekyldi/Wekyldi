@@ -1,7 +1,45 @@
 ## Hi there 👋
 
 
-**Wekyldi/Wekyldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Home
+Get started
+
+    Get started/Start your journey/
+
+Finding inspiration on GitHub
+
+You can find inspiration for your own projects and learning on GitHub and connect with a community.
+In this article
+
+Introduction
+
+GitHub is a vast open-source community. You can explore GitHub to find interesting repositories, topics, code, people, and organizations that can inspire your own work, or support your own learning.
+
+Once you've found something that interests you, you can:
+
+    Star the repository or topic, so you can easily find it again later.
+    Follow people or organizations, so you can stay updated on their activities.
+    Download useful repositories or code, and customize it for your own use.
+    Contribute to another user's project, by opening a pull request.
+
+Once you star repositories or follow people, you will see updates on their activities on your personal dashboard.
+Visit Explore GitHub
+
+    Navigate to Explore GitHub.
+    Browse popular repositories and topics.
+    Click 
+
+    Star next to repositories and topics that interest you, so you can easily find them again later.
+    Navigate to your stars page to see all your starred repositories and topics.
+
+Search for a topic or project on GitHub
+
+    Navigate to https://github.com/search.
+    Type a keyword or query into the search bar. For example, try "green software tools." For more detailed information about searching for specific topics, repositories, or code, see About searching on GitHub.
+    Use the left sidebar to filter the results. For example, to browse all repositories in the "green-software" topic, search "green-software", then filter by "Topic".
+    Star the repositories that match your interests, such as GitHub's Green Software Directory.
+
+Following people and organizations on GitHub
 
 Here are some ideas to get you started:
 
